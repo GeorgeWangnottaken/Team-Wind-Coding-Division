@@ -1,11 +1,13 @@
 body {
-  background-color: aqua;
+  background-color:steelblue; 
   font-family: verdana;
 }
 h1 {
     font-size: 300%;
-    font-family: cursive;
-    color: #FF0000   
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: slateblue;
+    background-color: cadetblue;
 }
 p {
     font-family: 'Courier New', Courier, monospace;
